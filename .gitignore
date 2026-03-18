@@ -1,1 +1,6 @@
 venv
+*.mp4
+*.avi
+s.json
+.DS_Store
+*.pyc
